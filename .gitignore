@@ -1,0 +1,11 @@
+cat > .gitignore << 'EOF'
+/Library/
+/Temp/
+/Logs/
+/obj/
+/Build/
+/Builds/
+/UserSettings/
+*.csproj
+*.sln
+EOF
